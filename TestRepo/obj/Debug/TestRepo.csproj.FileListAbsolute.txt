@@ -1,0 +1,6 @@
+C:\Users\windows 10 pro\Desktop\new projects\project\TestRepo\bin\Debug\TestRepo.exe.config
+C:\Users\windows 10 pro\Desktop\new projects\project\TestRepo\bin\Debug\TestRepo.exe
+C:\Users\windows 10 pro\Desktop\new projects\project\TestRepo\bin\Debug\TestRepo.pdb
+C:\Users\windows 10 pro\Desktop\new projects\project\TestRepo\obj\Debug\TestRepo.csprojResolveAssemblyReference.cache
+C:\Users\windows 10 pro\Desktop\new projects\project\TestRepo\obj\Debug\TestRepo.exe
+C:\Users\windows 10 pro\Desktop\new projects\project\TestRepo\obj\Debug\TestRepo.pdb
